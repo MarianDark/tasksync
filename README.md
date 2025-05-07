@@ -90,7 +90,6 @@ _Add screenshots here once UI is finalized_
 ## 🙌 Author
 
 Made with 💛 by **Marían Molina López**  
-📧 Contact: [tu-email@ejemplo.com]
 
 ---
 
